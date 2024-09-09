@@ -1,3 +1,3 @@
 # mini-projects
 
-this is just a project by colledge student plz dont judge
+This is just a project by collage student plz don't judge.
